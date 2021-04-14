@@ -14,6 +14,15 @@
 	 	<class>br.com.entity2.Avaliacao2</class>
 	 	<class>br.com.entity2.Estabelecimento2</class>
 	 	<class>br.com.entity2.Usuario2</class>
+	 	<class>br.com.entity3JOINED.Pessoa3</class>
+	 	<class>br.com.entity3JOINED.PessoaFisica3</class>
+		<class>br.com.entity3JOINED.PessoaJuridica3</class>
+		<class>br.com.entity4TABLEPERCLASS.Pessoa4</class>
+	 	<class>br.com.entity4TABLEPERCLASS.PessoaFisica4</class>
+		<class>br.com.entity4TABLEPERCLASS.PessoaJuridica4</class>
+		<class>br.com.entity5SINGLETABLE.Pessoa5</class>
+	 	<class>br.com.entity5SINGLETABLE.PessoaFisica5</class>
+		<class>br.com.entity5SINGLETABLE.PessoaJuridica5</class>
 		<properties>
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.format_sql" value="true" />
